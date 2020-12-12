@@ -1,0 +1,30 @@
+#navbar{
+    flex-direction: column;
+    padding: 0 1em;
+    justify-content: space-evenly;
+}
+#personalInfo .profile-item-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#personalInfo .profile-item-container div{
+    padding: 20px;
+    border-bottom: black solid 0.5px;
+    margin-bottom: 0px;
+
+}
+
+#projects .profile-item-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#projects .profile-item-container div{
+    padding: 20px;
+    border-bottom: lightgrey solid 0.5px;
+    margin-bottom: 0px;
+}
+#contact ul li{
+    margin: 1rem 2rem;
+}

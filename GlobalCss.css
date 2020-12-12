@@ -1,0 +1,14 @@
+.heading-small{
+    font-size: 1.25rem;
+}
+/*bg Colors*/
+.bg-dark{
+    background:#062e51 ;
+}
+.bg-light{
+    background: #336ea2;
+}
+/*Font*/
+.fancy-font{
+    font-family: 'Nerko One', cursive;
+}
